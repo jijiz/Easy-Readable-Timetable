@@ -1,0 +1,5 @@
+bleu_ciel=(22,222,255)
+gris_clair=(217,217,217)
+gris_fonce=(128,128,128)
+gris_semaine=(170,170,170)
+blanc=(255,255,255)
