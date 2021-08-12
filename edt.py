@@ -11,7 +11,7 @@ largeur_bloc = 250
 entete_y = 5
 semaine_x = 110
 classe_x = 400
-nom_prenom_x = 700
+nom_prenom_x = 850
 coordo_x = 1300
 
 jour_y = 110

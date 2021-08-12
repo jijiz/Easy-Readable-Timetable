@@ -5,7 +5,7 @@ import couleurs
 ##########  DEBUT MODIFICATION  #######################
 #######################################################
 l_semaine = "Semaine QX"
-l_classe = "Groupe X"
+l_classe = "Groupe X/Classe 1"
 l_nom_prenom = "Renée BONNET"
 l_coordo = "Mme LAUR"
 
