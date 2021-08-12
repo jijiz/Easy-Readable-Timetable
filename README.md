@@ -2,7 +2,7 @@
 
 *Simple and readable timetable, compliant for struggling pupils.*
 
-![GitHub Logo](example.png)
+![GitHub Logo](./example.png)
 Format: ![Easy timetable](url)
 
 ## Functionalities
