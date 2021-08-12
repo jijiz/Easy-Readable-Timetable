@@ -13,7 +13,7 @@
 ## Installation
 1. Dowload and install python : https://www.python.org/downloads/
 
-## How to
+## Timetable creation
 1. Duplicate **edt_modele_renee_bonnet.py** and rename the file with name of your choice (pupil name for example). This file contains datas of the generated timetable. 
 
 2. Open this file with text editor, you have to edit the code between :
@@ -31,3 +31,43 @@ Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`
 1. Edit **couleurs.py**
 2. Add a line `new_color=(RED,GREEN,BLUE)` and set RVB color `RED` `GREEN` `BLUE`
 3. Use the code `couleurs.new_color` in the file created from **How to, 1.**
+
+
+
+
+
+# TRADUCTION FRANÇAISE 
+
+# Horaire facile
+
+*Horaire simple et lisible, adapté aux élèves en difficulté.*
+
+![texte alternatif](https://github.com/jijiz/edt/blob/main/Julien%20Saccareau.png?raw=true)
+
+## Fonctionnalités
+* De lundi à vendredi
+* Couleurs
+* Police sans empattement
+* Heure de classe facilement lisible
+
+## Installation
+1. Téléchargez et installez python : https://www.python.org/downloads/
+
+## Création d'horaires
+1. Dupliquez **edt_modele_renee_bonnet.py** et renommez le fichier avec le nom de votre choix (nom d'élève par exemple). Ce fichier contient les données de l'horaire généré.
+
+2. Ouvrez ce fichier avec l'éditeur de texte, vous devez éditer le code entre :
+3. `########## MODIFICATION DEBUT #######################`
+                     et
+`############ MODIFICATION FIN #######################`
+
+3. Associer le fichier (doit être fait une seule fois) :
+Cliquez avec le bouton droit sur le fichier et cliquez sur Propriétés. Dans les propriétés du fichier, cliquez sur le bouton Modifier à côté de l'option "Ouvre avec".
+Sélectionnez le programme : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`PythonVersion-Version`.
+
+4. Générez l'image de l'horaire en double-cliquant sur le fichier. L'image de l'horaire est dans le même répertoire.
+
+## Ajout de couleurs
+1. Modifier **couleurs.py**
+2. Ajoutez une ligne `new_color=(RED,GREEN,BLUE)` et définissez la couleur RVB `RED` `GREEN` `BLUE`
+3. Utilisez le code `couleurs.new_color` dans le fichier créé à partir de **Comment, 1.**
