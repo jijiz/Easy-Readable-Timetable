@@ -1,26 +1,27 @@
-# edt
+# Easy timetable
 
-*This text will be italic*
-_This will also be italic_
+*Simple and readable timetable, compliant for struggling pupils.*
 
-**This text will be bold**
-__This will also be bold__
+## Functionalities
+* From Monday to Friday
+* Colors
+* Class hour easily readable
 
-_You **can** combine them_
+## Installation
+1. Dowload and install python : https://www.python.org/downloads/
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
-   ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+## How to
+1. Duplicate edt_modele_renee_bonnet.py and rename the file with the name of your choice (pupil name for example), this file contains datas of the generated timetable. 
+2. Open this file with text editor, you have to edit the code between :
+`#######################################################
+##########  DEBUT MODIFICATION  #######################
+#######################################################`
+and 
+#######################################################
+############  FIN MODIFICATION  #######################
+#######################################################
+3. Associate the file (must be done only once):
+Right-click the file and click Properties. In the file Properties, click the Change button next to the "Opens with" option. Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`PythonVersion-Version`.
+4. Generate the timetable picture by double clicking on the file. Timetable picture is in same directory.
 
-I think you should use an
-`<addr>` element here instead.
+
