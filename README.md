@@ -38,9 +38,9 @@ Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`
 
 # TRADUCTION FRANÇAISE 
 
-# Horaire facile
+# EDT Facile
 
-*Horaire simple et lisible, adapté aux élèves en difficulté.*
+*Emploi du temps lisible, adapté aux élèves en difficulté.*
 
 ![texte alternatif](https://github.com/jijiz/edt/blob/main/Julien%20Saccareau.png?raw=true)
 
@@ -54,7 +54,7 @@ Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`
 1. Téléchargez et installez python : https://www.python.org/downloads/
 
 ## Création d'horaires
-1. Dupliquez **edt_modele_renee_bonnet.py** et renommez le fichier avec le nom de votre choix (nom d'élève par exemple). Ce fichier contient les données de l'horaire généré.
+1. Dupliquez **edt_modele_renee_bonnet.py** et renommez le fichier avec le nom de votre choix (nom d'élève par exemple). Ce fichier contient les données de l'emploi du temps à créer.
 
 2. Ouvrez ce fichier avec l'éditeur de texte, vous devez éditer le code entre :
 3. `########## MODIFICATION DEBUT #######################`
@@ -62,10 +62,10 @@ Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`
 `############ MODIFICATION FIN #######################`
 
 3. Associer le fichier (doit être fait une seule fois) :
-Cliquez avec le bouton droit sur le fichier et cliquez sur Propriétés. Dans les propriétés du fichier, cliquez sur le bouton Modifier à côté de l'option "Ouvre avec".
-Sélectionnez le programme : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`PythonVersion-Version`.
+Cliquez avec le bouton droit sur le fichier et cliquez sur Propriétés. Dans les propriétés du fichier, cliquez sur le bouton Modifier situé à côté de l'option "Ouvrir avec".
+Sélectionnez le programme : C:\Users\`Le nom de votre PC`\AppData\Local\Programs\Python\`PythonVersion-Version`.
 
-4. Générez l'image de l'horaire en double-cliquant sur le fichier. L'image de l'horaire est dans le même répertoire.
+4. Générez l'image de l'emploi du temps en double-cliquant sur le fichier. L'image de l'emploi du temps est dans le même répertoire.
 
 ## Ajout de couleurs
 1. Modifier **couleurs.py**
