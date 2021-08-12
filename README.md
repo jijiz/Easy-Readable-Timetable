@@ -26,6 +26,7 @@ Right-click the file and click Properties. In the file Properties, click the Cha
 Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`PythonVersion-Version`.
 
 4. Generate the timetable picture by double clicking on the file. Timetable picture is in same directory.
+NB : Close de previous generated picture if updating timetable issue.
 
 ## Adding colors
 1. Edit **couleurs.py**
@@ -66,6 +67,7 @@ Cliquez avec le bouton droit sur le fichier et cliquez sur Propriétés. Dans le
 Sélectionnez le programme : C:\Users\`Le nom de votre PC`\AppData\Local\Programs\Python\`PythonVersion-Version`.
 
 4. Générez l'image de l'emploi du temps en double-cliquant sur le fichier. L'image de l'emploi du temps est dans le même répertoire.
+NB : Fermer l'image pécédement générée si la mise à jour d'un emploi du temps pose problème.
 
 ## Ajout de couleurs
 1. Modifier **couleurs.py**
