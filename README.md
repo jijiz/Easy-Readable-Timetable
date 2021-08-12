@@ -2,8 +2,7 @@
 
 *Simple and readable timetable, compliant for struggling pupils.*
 
-![GitHub Logo](./example.png)
-Format: ![Easy timetable](url)
+![alt text](https://github.com/jijiz/edt/blob/main/Julien%20Saccareau.png?raw=true)
 
 ## Functionalities
 * From Monday to Friday
