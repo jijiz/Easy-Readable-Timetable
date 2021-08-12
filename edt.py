@@ -42,7 +42,6 @@ class Edt:
         l_coordo = ""
 
     def semaine(self):
-        d.rectangle([semaine_x-20, entete_y, semaine_x+235, entete_y+jour_hauteur], fill=self.gris_semaine, outline=None, width=1)
         d.text((semaine_x,entete_y), self.l_semaine, font=fnt, fill=(0, 0, 0), stroke_width=1)
         
     def classe(self):
