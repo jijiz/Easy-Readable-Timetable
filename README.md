@@ -30,4 +30,4 @@ Select the program : C:\Users\`Your pc username`\AppData\Local\Programs\Python\`
 ## Adding colors
 1. Edit **couleurs.py**
 2. Add a line `new_color=(RED,GREEN,BLUE)` and set RVB color `RED` `GREEN` `BLUE`
-3. Use the code `couleurs.new_color` in the file created from **How to/1**
+3. Use the code `couleurs.new_color` in the file created from **How to, 1.**
